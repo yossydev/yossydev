@@ -1,4 +1,4 @@
-![hello-world](./image/Hello-World.png)
+![hello-world](./public/Hello-World.png)
 
 # 👋 Hi there
 
