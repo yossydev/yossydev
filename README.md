@@ -11,7 +11,7 @@
 - 📫 How to reach me `codeyy021@gmail.com`
 - 📝 I regularly write articles on https://yutodev.vercel.app/
 
-# ![zenn](./public/zenn.png) Latest Blog Posts
+# 📝 Latest Blog Posts
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-yy&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
 
