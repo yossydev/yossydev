@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=code-yy&show_icons=true&locale=en" alt="t-keshi" /></p>
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=yossydev&show_icons=true&locale=en" alt="t-keshi" /></p>
 
 - ❤️ I'm a React and TypeScript Enthusiast
 - 🌱 I’m currently learning Web Performance / Test / DX
@@ -13,7 +13,7 @@
 
 # 📝 Latest Blog Posts
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-yy&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yossydev&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
 
 <!-- BLOG-POST-LIST:START -->
 - [react-queryのキャッシュで気を付けようと思ったこと](https://yutodev.vercel.app/posts/react-query-cache)
