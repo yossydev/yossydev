@@ -1,5 +1,3 @@
-![hello-world](./public/Hello-World.png)
-
 # 👋 Hi there
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=yossydev&show_icons=true&locale=en" alt="t-keshi" /></p>
