@@ -1,2 +1,2 @@
 ### Hello 👋
-- [about me](https://yossydev.com/profile)
+- [about me](https://yossy.dev/profile)
