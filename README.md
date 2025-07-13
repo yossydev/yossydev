@@ -1,4 +1,4 @@
-
+  
 ```js
 > npx yossydev
 
@@ -7,12 +7,12 @@
 │            Yuto Yoshino / yossydev                   │
 │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
 │                                                      │
-│ Work    :: Frontend Enginier in Tokyo                │
+│ Work    :: Software Engineer in Tokyo                │
 │ X       :: https://x.com/yossydev                    │
 │ Bluesky :: https://bsky.app/profile/yossydev.com     │
 │ GitHub  :: https://github.com/yossydev               │
 │ Email   :: yossydev@yossy.dev                        │
-│ Web     :: https://yossy.dev/                        │
+│ Site    :: https://yossy.dev/                        │
 │                                                      │
 │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
 │ > Run npx yossydev anytime to see this card          │
